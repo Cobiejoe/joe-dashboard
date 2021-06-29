@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/http//Cobiejoe.github.io/joe-dashboard/static/css/main.a0afe002.chunk.css",
-    "main.js": "/http//Cobiejoe.github.io/joe-dashboard/static/js/main.9799ff47.chunk.js",
-    "main.js.map": "/http//Cobiejoe.github.io/joe-dashboard/static/js/main.9799ff47.chunk.js.map",
-    "runtime-main.js": "/http//Cobiejoe.github.io/joe-dashboard/static/js/runtime-main.665f4c5c.js",
-    "runtime-main.js.map": "/http//Cobiejoe.github.io/joe-dashboard/static/js/runtime-main.665f4c5c.js.map",
-    "static/js/2.86160a7a.chunk.js": "/http//Cobiejoe.github.io/joe-dashboard/static/js/2.86160a7a.chunk.js",
-    "static/js/2.86160a7a.chunk.js.map": "/http//Cobiejoe.github.io/joe-dashboard/static/js/2.86160a7a.chunk.js.map",
-    "index.html": "/http//Cobiejoe.github.io/joe-dashboard/index.html",
-    "static/css/main.a0afe002.chunk.css.map": "/http//Cobiejoe.github.io/joe-dashboard/static/css/main.a0afe002.chunk.css.map",
-    "static/js/2.86160a7a.chunk.js.LICENSE.txt": "/http//Cobiejoe.github.io/joe-dashboard/static/js/2.86160a7a.chunk.js.LICENSE.txt"
+    "main.css": "/joe-dashboard/static/css/main.a0afe002.chunk.css",
+    "main.js": "/joe-dashboard/static/js/main.9799ff47.chunk.js",
+    "main.js.map": "/joe-dashboard/static/js/main.9799ff47.chunk.js.map",
+    "runtime-main.js": "/joe-dashboard/static/js/runtime-main.7543679a.js",
+    "runtime-main.js.map": "/joe-dashboard/static/js/runtime-main.7543679a.js.map",
+    "static/js/2.80d5d19f.chunk.js": "/joe-dashboard/static/js/2.80d5d19f.chunk.js",
+    "static/js/2.80d5d19f.chunk.js.map": "/joe-dashboard/static/js/2.80d5d19f.chunk.js.map",
+    "index.html": "/joe-dashboard/index.html",
+    "static/css/main.a0afe002.chunk.css.map": "/joe-dashboard/static/css/main.a0afe002.chunk.css.map",
+    "static/js/2.80d5d19f.chunk.js.LICENSE.txt": "/joe-dashboard/static/js/2.80d5d19f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.665f4c5c.js",
-    "static/js/2.86160a7a.chunk.js",
+    "static/js/runtime-main.7543679a.js",
+    "static/js/2.80d5d19f.chunk.js",
     "static/css/main.a0afe002.chunk.css",
     "static/js/main.9799ff47.chunk.js"
   ]
