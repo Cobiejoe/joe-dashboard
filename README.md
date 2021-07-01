@@ -1,3 +1,3 @@
-# This is a UI-design project bootsrapped with Create-React-App
+# Crude application design for dashboarding/admin work
 
 ## 'npm start' to open in development mode
